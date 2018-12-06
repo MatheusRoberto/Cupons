@@ -1,0 +1,56 @@
+
+{"enderecos" : [
+    {"rua":"Rua Zacarias","CEP":"84032-585", "numero":"395", "bairro":"Jardim Carvalho"},
+    {"rua":"Rua do Pedreiro","CEP":"84022-570", "numero":"412", "bairro":"Car�-car�"},
+    {"rua":"Rua do Pedreiro","CEP":"84062-170", "numero":"=367", "bairro":"Car�-car�"},
+    {"rua":"Rua Romanos","CEP":"84062-670", "numero":"362", "bairro":"Jardim Carvalho"},
+    {"rua":"Rua Romanos","CEP":"84063-670", "numero":"401", "bairro":"Jardim Carvalho"},
+    {"rua":"Rua Zacarias","CEP":"84032-585", "numero":"351", "bairro":"Car�-car�"}
+],
+"clientes" : [
+    {"nome":"Henry Emanuel Rafael Santos","CPF":"314.046.659-51", "email":"hhenryemanuelrafaelsantos@ematelecom.com.br", "telefone":"(42) 99464-2062", "senha":"ZurZOUGu13", "endereco":"0"},
+    {"nome":"Osvaldo Eduardo Brito","CPF":"462.372.439-50", "email":"osvaldoeduardobrito@validtecnologia.com.br", "telefone":"(42) 98750-6297", "senha":"eXD8BSXugx", "endereco":"1"},
+    {"nome":"Diego Martin Gomes","CPF":"136.223.109-60", "email":"diegomartingomes@fileno.com.br", "telefone":"(42) 99649-7069", "senha":"TZReu4wCN8", "endereco":"2"},
+    {"nome":"Carlos Joaquim Antonio das Neves","CPF":"589.754.949-42", "email":"carlosjoaquimantoniodasneves@gmx.com.br", "telefone":"(42) 98469-4301", "senha":"PrtyjsfEHZ", "endereco":"0"},
+    {"nome":"Rayssa L�via Ara�jo","CPF":"627.135.429-79", "email":"rayssaliviaaraujo-72@krika.com.br", "telefone":"(42) 98691-6045", "senha":"fNlLeXU32x", "endereco":"1"},
+    {"nome":"Jaqueline Louise Francisca Figueiredo","CPF":"509.603.179-96", "email":"jaquelinelouise@valedesign.com.br", "telefone":"(42) 98587-9545", "senha":"xk5Sk17oME", "endereco":"2"},
+    {"nome":"Mait� Tatiane Cavalcanti","CPF":"002.988.949-98", "email":"maitetatianecavalcanti@seal.com.br", "telefone":"(42) 99514-1852", "senha":"5tf6zx3noy", "endereco":"0"},
+    {"nome":"Aurora Aline da Rocha","CPF":"791.223.839-56", "email":"auroraalinedarocha_@sp.gov.br", "telefone":"(42) 98582-5879", "senha":"doFNjQcyjQ", "endereco":"1"},
+    {"nome":"Marcela Brenda Rodrigues","CPF":"104.127.839-08", "email":"marcelabrendarodrigues@aliancacadeiras.com.br", "telefone":"(42) 98683-1045", "senha":"OrRFFohRNt", "endereco":"2"}
+],
+"fornecedores" : [
+    {"nome":"Restaurante Mana","CNPJ":"04.669.615/0001-66","tipo":"Restaurante", "endereco":"3"},
+    {"nome":"Restaurante NutriSabor","CNPJ":"46.343.454/0001-66","tipo":"Restaurante", "endereco":"4"},
+    {"nome":"Restaurante Fenix","CNPJ":"20.735.669/0001-39","tipo":"Restaurante", "endereco":"5"},
+    {"nome":"Pizzaria Tanrantela","CNPJ":"33.615.382/0001-17","tipo":"Restaurante", "endereco":"3"},
+    {"nome":"Hamburgueria 13","CNPJ":"98.631.198/0001-06","tipo":"Restaurante", "endereco":"4"},
+    {"nome":"Posto Marco Polo","CNPJ":"80.871.232/0001-54","tipo":"Combustivel", "endereco":"5"},
+    {"nome":"Posto Hipiranga","CNPJ":"75.582.478/0001-76","tipo":"Combustivel", "endereco":"3"},
+    {"nome":"Posto Trev�o","CNPJ":"23.258.216/0001-57","tipo":"Combustivel", "endereco":"4"},
+    {"nome":"Posto Ing�","CNPJ":"16.498.390/0001-01","tipo":"Combustivel", "endereco":"5"}
+],
+"cupons" : [
+    {"nome":"Cupom no Restaurante Mana ", "promocao":"50% de desconto no Segundo Prato", "tipo":"Restaurantes","validado":"false","fornecedor":"0"},
+    {"nome":"Cupom no Restaurante Mana", "promocao":"65% de desconto no Segundo Prato", "tipo":"Restaurantes","validado":"false","fornecedor":"0"},
+    {"nome":"Cupom no Restaurante NutriSabor", "promocao":"50% de desconto no Segundo Prato", "tipo":"Restaurantes","validado":"false","fornecedor":"1"},
+    {"nome":"Cupom no Restaurante NutriSabor", "promocao":"70% de desconto no Segundo Prato", "tipo":"Restaurantes","validado":"false","fornecedor":"1"},
+    {"nome":"Cupom no Restaurante Fenix", "promocao":"50% de desconto em qualquer prato", "tipo":"Restaurantes","validado":"false","fornecedor":"2"},
+    {"nome":"Cupom no Restaurante Fenix", "promocao":"75% de desconto no Segundo Prato", "tipo":"Restaurantes","validado":"false","fornecedor":"2"},
+    {"nome":"Cupom no Pizzaria Tanrantela", "promocao":"50% de desconto na Segunda Pizza", "tipo":"Restaurantes","validado":"false","fornecedor":"3"},
+    {"nome":"Cupom no Pizzaria Tanrantela", "promocao":"70% de desconto na Segunda Pizza", "tipo":"Restaurantes","validado":"false","fornecedor":"3"},
+    {"nome":"Cupom no Hamburgueria 13", "promocao":"50% de desconto no em qualquer prato", "tipo":"Restaurantes","validado":"false","fornecedor":"4"},
+    {"nome":"Cupom no Hamburgueria 13", "promocao":"50% de desconto no Primeiro Prato", "tipo":"Alimento","validado":"false","fornecedor":"4"},
+    {"nome":"Cupom no posto Marco Polo", "promocao":"50% de desconto na Gasolina", "tipo":"Combustivel","validado":"false","fornecedor":"5"},
+    {"nome":"Cupom no posto Marco Polo", "promocao":"50% de desconto no Alcool", "tipo":"Combustivel","validado":"false","fornecedor":"5"},
+    {"nome":"Cupom no posto Hipiranga", "promocao":"50% de desconto na Gasolina", "tipo":"Combustivel","validado":"false","fornecedor":"6"},
+    {"nome":"Cupom no posto Trev�o", "promocao":"30% de desconto na Gasolina", "tipo":"Combustivel","validado":"false","fornecedor":"7"},
+    {"nome":"Cupom no posto Trev�o", "promocao":"50% de desconto na Alcool", "tipo":"Combustivel","validado":"false","fornecedor":"7"},
+    {"nome":"Cupom no posto Ing�", "promocao":"50% de desconto na Gasolina", "tipo":"Combustivel","validado":"false","fornecedor":"8"}
+],
+"colecoes" : [
+    {"nome":"Cole��o Premium Restaurante", "categoria":"Restaurante", "versao":"1", "dataValidade":"07/05/2019", "dataInicio":"07/12/2018", "preco":"100","cupons":["1","3","5","7","9"]},
+    {"nome":"Cole��o Standart Restaurante", "categoria":"Restaurante", "versao":"1", "dataValidade":"07/05/2019", "dataInicio":"07/12/2018", "preco":"50","cupons":["0","2","4","6","8"]},
+    {"nome":"Cole��o Standart Postos", "categoria":"Combustivel", "versao":"1", "dataValidade":"07/05/2019", "dataInicio":"07/12/2018", "preco":"65","cupons":["10","11","12","13","14","15"]}
+
+]
+}
